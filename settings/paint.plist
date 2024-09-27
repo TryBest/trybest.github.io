@@ -12,6 +12,8 @@
                 <true/>
 		<key>enable-three-year-full-version</key>
                 <false/>
+		<key>disable-one-month-full-version</key>
+                <false/>
 		<key>enable-backup-receipt</key>
                 <false/>
                 <key>AllowChooseForFirstPurchase</key>
