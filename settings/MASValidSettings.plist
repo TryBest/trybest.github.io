@@ -8,8 +8,12 @@
 		<false/>
 		<key>5.7.4</key>
                 <false/>
-                <key>7.11.5</key>
+                <key>7.12.0</key>
                 <true/>
+		<key>enable-three-year-full-version</key>
+                <false/>
+		<key>enable-backup-receipt</key>
+                <false/>
                 <key>AllowChooseForFirstPurchase</key>
                 <true/>
                 <key>UseDefaultFullVersion</key>
