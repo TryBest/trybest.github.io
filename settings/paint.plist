@@ -4,10 +4,6 @@
 <dict>
 	<key>com.TryBest.Paint</key>
 	<dict>
-		<key>5.7.3</key>
-		<false/>
-		<key>5.7.4</key>
-                <false/>
                 <key>7.12.0</key>
                 <true/>
 		<key>enable-three-year-full-version</key>
@@ -35,10 +31,6 @@
 	</dict>
 	<key>com.TryBest.PaintPadLite</key>
         <dict>
-                <key>5.6.2</key>
-                <false/>
-                <key>5.6.3</key>
-                <false/>
                 <key>7.9.1</key>
                 <true/>
 		<key>ShowPriceInUpgradeWindow</key>
