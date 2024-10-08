@@ -6,6 +6,8 @@
 	<dict>
                 <key>7.12.2</key>
                 <true/>
+		<key>turn-off-log</key>
+		<true/>
 		<key>enable-three-year-full-version</key>
                 <false/>
 		<key>disable-one-month-full-version</key>
