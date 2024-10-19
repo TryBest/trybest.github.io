@@ -4,11 +4,15 @@
 <dict>
 	<key>com.TryBest.Paint</key>
 	<dict>
-                <key>7.12.2</key>
+                <key>7.13.0</key>
                 <true/>
 		<key>turn-off-log</key>
 		<true/>
+		<key>disable-core-svg-framework</key>
+		<false/>
 		<key>enable-three-year-full-version</key>
+                <false/>
+		<key>disable-two-year-full-version</key>
                 <false/>
 		<key>disable-one-month-full-version</key>
                 <false/>
