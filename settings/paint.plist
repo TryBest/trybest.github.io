@@ -7,7 +7,7 @@
                 <key>7.13.0</key>
                 <false/>
 		<key>turn-off-log</key>
-		<true/>
+		<false/>
 		<key>disable-core-svg-framework</key>
 		<false/>
 		<key>enable-three-year-full-version</key>
