@@ -36,6 +36,8 @@
                 <true/>
 		<key>discount</key>
 		<dict>
+			<key>showNormalDiscount</key>
+			<true/>
   			<key>LifetimeFullVersion</key>
   			<dict>
     				<key>discount</key>
