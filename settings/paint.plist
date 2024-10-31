@@ -38,6 +38,8 @@
 		<dict>
 			<key>showNormalDiscount</key>
 			<true/>
+			<key>disable-highlight-lifetime</key>
+			<false/>
   			<key>LifetimeFullVersion</key>
   			<dict>
     				<key>discount</key>
