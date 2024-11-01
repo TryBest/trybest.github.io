@@ -45,9 +45,9 @@
     				<key>discount</key>
     				<string>0.12</string>
     				<key>startDate</key>
-    				<string></string>
+    				<string>2024-10-30 00:00:00</string>
     				<key>endDate</key>
-    				<string>20241230</string>
+    				<string>2024-12-30 00:00:00</string>
   			</dict>
   			<key>ThreeYearFullVersion1</key>
 			<dict>
