@@ -39,9 +39,9 @@
 		<key>version-status</key>
 		<dict>
 			<key>7.15.3</key>
-			<has-issues/>
+			<string>has-issues</string>
 			<key>7.15.5</key>
-			<stable/>
+			<string>stable</string>
 		</dict>
 		<key>discount</key>
 		<dict>
