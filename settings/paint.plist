@@ -36,6 +36,13 @@
                 <true/>
 		<key>ShowOneYearMembershipValidateDuration</key>
                 <true/>
+		<key>version-status</key>
+		<dict>
+			<key>7.15.3</key>
+			<has-issues/>
+			<key>7.15.5</key>
+			<stable/>
+		</dict>
 		<key>discount</key>
 		<dict>
 			<key>showNormalDiscount</key>
