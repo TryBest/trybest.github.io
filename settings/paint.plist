@@ -47,6 +47,8 @@
 			<key>7.15.5</key>
 			<string>stable</string>
 		</dict>
+		<key>show-price-per-month</key>
+                <false/>
 		<key>discount</key>
 		<dict>
 			<key>showNormalDiscount</key>
