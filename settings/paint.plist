@@ -11,9 +11,9 @@
 		<key>disable-core-svg-framework</key>
 		<false/>
 		<key>products-use-collection-view</key>
-		<true/>
+		<false/>
 		<key>products-use-collection-view-repurchase</key>
-		<true/>
+		<false/>
 		<key>enable-three-year-full-version</key>
                 <false/>
 		<key>disable-two-year-full-version</key>
