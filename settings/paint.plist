@@ -12,6 +12,8 @@
 		<false/>
 		<key>products-use-collection-view</key>
 		<true/>
+		<key>products-use-collection-view-repurchase</key>
+		<true/>
 		<key>enable-three-year-full-version</key>
                 <false/>
 		<key>disable-two-year-full-version</key>
@@ -28,7 +30,7 @@
                 <true/>
                 <key>DefaultSelectedIAPId</key>
                 <string>SubscribeOneYearMemberShip</string>
-		<key>PurchaseAgainDefaultSelectedIAPId</key>
+		<key>RepurchaseDefaultSelectedIAPId</key>
                 <string>IAPTwoYearFullVersionID</string>
 		<key>ShowPriceInUpgradeWindow</key>
 		<false/>
