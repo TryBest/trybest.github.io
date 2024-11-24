@@ -28,6 +28,8 @@
                 <true/>
                 <key>DefaultSelectedIAPId</key>
                 <string>SubscribeOneYearMemberShip</string>
+		<key>PurchaseAgainDefaultSelectedIAPId</key>
+                <string>IAPTwoYearFullVersionID</string>
 		<key>ShowPriceInUpgradeWindow</key>
 		<false/>
 		<key>ConfirmBeforePurchase</key>
