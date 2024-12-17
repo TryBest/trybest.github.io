@@ -44,8 +44,6 @@
 		<dict>
 			<key>7.15.3</key>
 			<string>has-issues</string>
-			<key>7.15.5</key>
-			<string>stable</string>
                         <key>7.16.2</key>
 			<string>stable</string>
 		</dict>
