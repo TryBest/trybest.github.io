@@ -6,4 +6,4 @@ Our apps won’t collect any user and device related informations and data from 
 
 If you still have any problems with our privacy policy, please contact us with the email at:
 
-support@trybestapps.com
+[support@trybestapps.com](mailto:support@trybestapps.com)
