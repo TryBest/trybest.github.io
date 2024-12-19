@@ -1,2 +1,1 @@
-# trybest.github.io
-TryBest Studio Website
+# TryBest Studio
