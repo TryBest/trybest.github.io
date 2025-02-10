@@ -5,7 +5,7 @@
 	<key>com.TryBest.Paint</key>
 	<dict>
                 <key>7.16.3</key>
-                <true/>
+                <false/>
 		<key>turn-off-log</key>
 		<false/>
 		<key>disable-core-svg-framework</key>
