@@ -46,6 +46,8 @@
 			<string>has-issues</string>
                         <key>7.16.2</key>
 			<string>stable</string>
+			<key>7.18.0</key>
+			<string>has-issues</string>
 		</dict>
 		<key>show-price-per-month</key>
                 <false/>
