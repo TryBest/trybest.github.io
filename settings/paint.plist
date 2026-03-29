@@ -6,6 +6,10 @@
 	<dict>
         <key>7.19.1</key>
         <true/>
+		<key>can-use-png-quant</key>
+		<true/>
+		<key>load-image-by-cgimage</key>
+		<false/>
 		<key>turn-off-log</key>
 		<false/>
 		<key>disable-core-svg-framework</key>
