@@ -10,6 +10,8 @@
 		<true/>
 		<key>load-image-by-cgimage</key>
 		<false/>
+		<key>allow-redeem-offercode</key>
+		<false/>
 		<key>turn-off-log</key>
 		<false/>
 		<key>disable-core-svg-framework</key>
