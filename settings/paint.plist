@@ -48,13 +48,13 @@
         <true/>
 		<key>version-status</key>
 		<dict>
-			<key>7.15.3</key>
+			<key>7.19.6</key>
 			<string>has-issues</string>
             <key>7.16.2</key>
 			<string>stable</string>
 			<key>7.18.0</key>
 			<string>has-issues</string>
-			<key>7.18.2</key>
+			<key>7.19.7</key>
 			<string>stable</string>
 		</dict>
 		<key>show-price-per-month</key>
