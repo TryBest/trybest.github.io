@@ -7,7 +7,7 @@
         <key>8.0.2</key>
         <true/>
 		<key>can-use-png-quant</key>
-		<true/>
+		<false/>
 		<key>load-image-by-cgimage</key>
 		<false/>
 		<key>allow-redeem-offercode</key>
