@@ -1,5 +1,9 @@
-# TryBest Studio
+# TryBest Studio Apps
 
-[Paint S/Paint Pro](./paint/)
+[Paint S](./paint/)
 
-[Privacy](./support/)
+[Paint Pro](./paint/)
+
+[Folder-Factory](./folder-factory/)
+
+[Privacy](./support/privacy-policy/)
