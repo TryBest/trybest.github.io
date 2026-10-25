@@ -37,7 +37,7 @@
         <key>DefaultSelectedIAPId</key>
         <string>SubscribeOneYearMemberShip</string>
 		<key>RepurchaseDefaultSelectedIAPId</key>
-        <string>IAPTwoYearFullVersionID</string>
+        <string>TwoYearFullVersion</string>
 		<key>ShowPriceInUpgradeWindow</key>
 		<false/>
 		<key>ConfirmBeforePurchase</key>
